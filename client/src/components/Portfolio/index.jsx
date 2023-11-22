@@ -16,7 +16,7 @@ function Portfolio() {
             gitrepo: "https://github.com/alejandra-e-bernabel/YourSpace" // my repo project
         },
         {
-            name: "Tech Blog",
+            name: "Tech_Blog",
             description: "Node.js, Express.js, SQL, ORM, MVC", //technology I used
             deploy: "https://floating-refuge-70464-b9cf1235304b.herokuapp.com/", // link to my project
             gitrepo: "https://github.com/Ymishyna/Tech-Blog" // my repo project
