@@ -1,10 +1,11 @@
-import backgroudImg from "../../assets/backgroudImg"
+import React from "react";
+import backgroundImg from "../../assets/backgroundImg.jpeg"
 
 function Header(props) {
     return (
         <header>
             <h1>Yana's Portfolio</h1>
-            <img src = {backgroudImg} alt="background image"></img>
+            <img src = {backgroundImg} alt="background image"></img>
             {props.children}
         </header>
     )
