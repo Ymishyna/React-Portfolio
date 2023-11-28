@@ -69,53 +69,24 @@ The following animation shows the web application's appearance and functionality
 6. Ensure inquirer is installed [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). Run `npm i` to install dependencies in local project directory.
 7. Run `cd client` (that will take you to a client folder) where you will run `npm start` to start a server and your app.
 
+## Contributing
+
+Any Contribution is more than welcome!
+
+## Questions
+
+If you have any question, Email me at: yana.mishina.92@gmail.com
+
+Find me on GitHub: [Ymishyna](https://github.com/Ymishyna)
+
+## Links 
+
+The URL of the functional, deployed application.
+
+[Deployed Site: https://65666d85bf55eb07ff974656--yanamishynaportfolio.netlify.app/](https://65666d85bf55eb07ff974656--yanamishynaportfolio.netlify.app/)
+
+The URL of the GitHub repository, with a unique name and a README that describes the project.
+
+[GitHub repository: https://github.com/Ymishyna/React-Portfolio](https://github.com/Ymishyna/React-Portfolio)
 
 
-
-
-
-
-
-
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* User experience is intuitive and easy to navigate.
-
-* User interface style is clean and polished.
-
-* Application uses a color scheme other than the default Bootstrap color palette.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains high-quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
