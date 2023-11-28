@@ -2,7 +2,7 @@ import React from "react";
 
 // import * as projects from "../../assets" // images from projects same name as name value from line 6 name: ""
 
-function Project({project}) {
+function Project({ project }) {
     const { name, description, deploy, gitrepo } = project
 
     return (
