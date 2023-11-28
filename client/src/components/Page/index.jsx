@@ -1,26 +1,3 @@
-// import { useEffect } from "react"
-// import PageDisplay from "../PageDisplay"
-// import { Outlet } from "react-router-dom"
-
-// function Page({ currentPage }) {
-//     currentPage = currentPage.subString(1)
-
-//     useEffect(() => {
-//         document.title = currentPage;
-//     }, [currentPage]
-//     )
-//     return (
-//         <section>
-//             <h2>{currentPage}</h2>
-//             <PageDisplay>
-//                 <Outlet />
-//             </PageDisplay>
-//         </section>
-//     )
-// }
-
-// export default Page
-
 import React from 'react';
 import PageDisplay from '../PageDisplay';
 import About from '../About';
@@ -33,13 +10,13 @@ function Page({ currentPage }) {
 
   const renderPage = () => {
     switch (currentPage.name) {
-      case 'about me':
+      case 'About me':
         return <About />;
-      case 'portfolio':
+      case 'Portfolio':
         return <Portfolio />;
-      case 'contact':
+      case 'Contact':
         return <Contact />;
-      case 'resume':
+      case 'Resume':
         return <Resume />;
       default:
         return <About />;

@@ -11,9 +11,117 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
+ul {
+  list-style: none
+}
+
+.my-pic {
+  background-size: contain;
+  width: 40%;
+  height: 10%;
+}
+
+img {
+  width: 90%;
+  height: 30%;
+  /* //height: 400px; */
+  object-fit: cover;
+}
+
+.resume-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.resume-title {
+  margin-top: -8%;
+  text-decoration: underline;
+}
+
+.skills-container {
+  margin-top: -3rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills-column {
+  flex: 1;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  margin: 0 40px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.nav-item:hover {
+  background-color: #535bf2;
+}
+
+.navActive {
+  background-color: #535bf2;
+}
+
+/* FOOTER  */
+
+footer {
+  padding-top: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 34px;
+}
+
+footer a {
+  color: rgb(243, 248, 248);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  align-items: center;
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color:#535bf2;
+}
+
+footer .socialMedia {
+  display: flex;
+  align-items: center; 
+  justify-content: flex-end;
+}
+
+footer .socialMedia img {
+  -webkit-filter: invert(80%);
+  filter: invert(80%);
+  height: 50px;
+  width: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: all 0.3s ease;
+}
+
+footer .socialMedia img:hover {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
@@ -22,6 +130,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
