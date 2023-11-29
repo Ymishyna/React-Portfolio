@@ -7,7 +7,7 @@ function Resume() {
             <div className="resume-container">
                 {/* Title Section */}
                 <div className="resume-title">
-                    <h1>Here is my <a href="../../../public/assets/RESUME2.pdf" target="_blank">Resume</a></h1>
+                    <h1>Here is my <a href="../../../public/assets/RESUME2.pdf" target="_blank" rel="noopener noreferrer">Resume</a></h1>
                 </div>
                 {/* Skills Section */}
                 <div className="skills-container">
