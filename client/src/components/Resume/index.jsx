@@ -1,5 +1,7 @@
 // // line 8 - link to my resume from assets pdf file.
 // two titles for skills front end, back end after line 9
+import resumePage from '../../assets/RESUME2.pdf'
+
 
 function Resume() {
     return (
@@ -7,7 +9,7 @@ function Resume() {
             <div className="resume-container">
                 {/* Title Section */}
                 <div className="resume-title">
-                    <h1>Here is my <a href="../../../public/assets/RESUME2.pdf" target="_blank" rel="noopener noreferrer">Resume</a></h1>
+                    <h1>Here is my <a href={resumePage} target="_blank" rel="noopener noreferrer">Resume</a></h1>
                 </div>
                 {/* Skills Section */}
                 <div className="skills-container">
