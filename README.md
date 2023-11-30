@@ -1,6 +1,6 @@
 # React Portfolio
 
-## Your Task
+## Description
 
 Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
 
@@ -83,7 +83,7 @@ Find me on GitHub: [Ymishyna](https://github.com/Ymishyna)
 
 The URL of the functional, deployed application.
 
-[Deployed Site: https://65666d85bf55eb07ff974656--yanamishynaportfolio.netlify.app/](https://65666d85bf55eb07ff974656--yanamishynaportfolio.netlify.app/)
+[Deployed Site: https://656693ad2df841235e32b128--yanamishynaportfolio.netlify.app/](https://656693ad2df841235e32b128--yanamishynaportfolio.netlify.app/) 
 
 The URL of the GitHub repository, with a unique name and a README that describes the project.
 
