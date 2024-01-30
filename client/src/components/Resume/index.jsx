@@ -1,6 +1,6 @@
 // // line 8 - link to my resume from assets pdf file.
 // two titles for skills front end, back end after line 9
-import resumePage from '../../assets/YANA MISHYNA RESUME.pdf'
+import resumePage from '/Users/yanamishyna/bootcamp/HOMEWORK/React-Portfolio/client/src/assets/RESUME.pdf'
 
 
 function Resume() {
