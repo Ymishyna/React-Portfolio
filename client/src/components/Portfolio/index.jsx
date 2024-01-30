@@ -10,10 +10,10 @@ function Portfolio() {
             gitrepo: "https://github.com/MadeleineA42/moody" // my repo project
         },
         {
-            name: "YourSpace",
-            description: "This web application interface is a blast from the past as it replicates the nostalgic feel of what was known as MySpace but with a modern and simplistic twist.It will be completely interactve with the customization of your avatar/profile info,background color, music upon opening page, top 5 favorite songs ,your top 5 best friends,as well as a bulletin board and a blog section for personalization.", //technology I used
-            deploy: "https://your-space-b0e277e1dff1.herokuapp.com/", // link to my project
-            gitrepo: "https://github.com/alejandra-e-bernabel/YourSpace" // my repo project
+            name: "PAWect Match",
+            description: "Pawfect Match: Easy pet adoption app with Dogs and Cats. Search by Species, Gender, Age. Hosted on Heroku for quick access. Find your perfect pet today! I led deployment, continuous integration, and managed branching and merging structures for application. Oversaw the front-end team, ensuring seamless integration with the backend. Played a pivotal role in coordinating and integrating end-to-end functionalities.", //technology I used
+            deploy: "https://nameless-beyond-62501-786f112efe52.herokuapp.com/", // link to my project
+            gitrepo: "https://github.com/Ymishyna/PawfectMatch" // my repo project
         },
         {
             name: "Tech_Blog",
